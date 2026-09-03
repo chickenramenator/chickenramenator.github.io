@@ -94,7 +94,7 @@ h2 {
   width: 100%;
   max-width: 760px;
   aspect-ratio: 3 / 4;
-  object-fit: cover;
+  object-fit: contain;
   display: block;
   border-radius: 16px;
   filter: grayscale (100%);
